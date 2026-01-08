@@ -64,7 +64,7 @@ export default function RecipeReviewCard() {
         <Typography variant="body2" color="text.secondary">
           This impressive paella is a perfect party dish and a fun meal to cook
           together with your guests. Add 1 cup of frozen peas along with the
-          mussels, if you like.
+          mussels, if you like.1
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
