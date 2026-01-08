@@ -153,7 +153,7 @@ export default function MultiActionAreaCard() {
                   variant="contained"
                   endIcon={mode === "Login" ? <LoginIcon /> : <SendIcon />}
                 >
-                  {mode === "Login" ? "To Login" : "To Sigin"}
+                  {mode === "Login" ? "to Login" : "to Sigin"}
                 </Button>
               </CardActions>
             </form>
