@@ -5,7 +5,7 @@ import ImageListItemBar from "@mui/material/ImageListItemBar";
 
 export default function About() {
   return (
-    <Box sx={{ overflowY: "scroll", pd: 2 }}>
+    <Box sx={{ overflowY: "scroll", pd: 1 }}>
       <ImageList variant="masonry" cols={3} gap={8}>
         {itemData.map((item) => (
           <ImageListItem key={item.img}>
